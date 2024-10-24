@@ -22,6 +22,12 @@ This is a real-time leaderboard system built in Go using Redis and PostgreSQL. T
 - `go-redis` package for Redis connection
 - `golang-migrate` package for migrations
 
+
+### This is Roadmap.sh Project solution in Golang Roadmap
+
+```bash
+https://roadmap.sh/projects/realtime-leaderboard-system
+```
 ## Installation
 
 ### 1. Clone the repository:

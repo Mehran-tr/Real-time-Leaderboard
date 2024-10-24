@@ -27,7 +27,7 @@ This is a real-time leaderboard system built in Go using Redis and PostgreSQL. T
 ### 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Mehran-tr/Real-time-Leaderboard
+git clone https://github.com/Mehran-tr/Real-time-Leaderboard.git
 cd real-time-leaderboard
 ```
 
